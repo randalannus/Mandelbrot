@@ -1,2 +1,3 @@
-# Mandelbrot
-da
+# Readme
+
+Mandelbrot renderer made with JavaFX.
